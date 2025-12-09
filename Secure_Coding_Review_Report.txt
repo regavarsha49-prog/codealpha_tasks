@@ -1,0 +1,19 @@
+SECURE CODING REVIEW – MINI REPORT
+
+Application Reviewed:
+Simple Login System (Python)
+
+INSECURE CODE ISSUES:
+1. Hardcoded password
+2. Weak password
+3. Password visible while typing
+4. No login attempt limit
+
+SECURE CODE FIXES:
+1. Password hashing used
+2. Hidden password input
+3. Strong password used
+4. Better code structure
+
+CONCLUSION:
+Secure coding practices help protect user data and reduce cyber attack risks.
